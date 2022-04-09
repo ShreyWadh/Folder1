@@ -18,3 +18,14 @@ background-color:#d3d3d3;
     padding:30px;
     font-family:cursive;
 }
+.im{
+    width:250px;
+    height:200px;
+    border-radius:100%;
+}
+.container{
+    margin:10px 20px 30px;
+}
+.op{
+     margin:20px 20px 30px;
+}
