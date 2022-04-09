@@ -1,6 +1,6 @@
 .col
 {
-    background-color:#ffebcd;
+    background-color:tomato;
 }
 body{
 background-color:#d3d3d3;
@@ -11,4 +11,10 @@ background-color:#d3d3d3;
     color:blue;
     font-family:cursive;
     
+}
+.trending{
+    background-color:tomato;
+    text-align:center;
+    padding:30px;
+    font-family:cursive;
 }
