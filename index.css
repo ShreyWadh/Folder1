@@ -35,3 +35,17 @@ background-color:#d3d3d3;
     padding:20% 20% 20% 20%;
     
 }
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
