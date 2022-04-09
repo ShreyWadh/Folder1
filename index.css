@@ -1,6 +1,12 @@
 .col
 {
     background-color:tomato;
+    padding:7% 15%;
+    font-size:25px;
+}
+#footer{
+    padding:7% 15%;
+    text-align:center;
 }
 body{
 background-color:#d3d3d3;
@@ -18,6 +24,10 @@ background-color:#d3d3d3;
     padding:30px;
     font-family:cursive;
 }
+.icon{
+    margin:10px 7px;
+    
+}
 .im{
     width:250px;
     height:200px;
@@ -33,7 +43,10 @@ background-color:#d3d3d3;
     width:100%;
     height:10%;
 }
-
+.container-fluid1{
+    padding:7% 15%;
+    font-size:30px;
+}
 @media(max-width:900px){
     .container-fluid1{
         font-family:cursive;
