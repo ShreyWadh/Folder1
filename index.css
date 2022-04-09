@@ -34,7 +34,7 @@ background-color:#d3d3d3;
     height:10%;
 }
 
-@media(max-width:356px){
+@media(max-width:900px){
     .container-fluid1{
         font-family:cursive;
         font-size:30px;
