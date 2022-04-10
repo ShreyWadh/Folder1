@@ -49,3 +49,19 @@ background-color:#d3d3d3;
 #footer{
     padding:7% 15%;
     text-align:center;}
+@media(max-width:900px){
+    .container-fluid1{
+        font-family:cursive;
+        font-size:30px;
+        text-align:center;
+    }
+    .col{
+        font-family:cursive;
+        font-size:20px;
+    }
+    .trending{
+        font-family:cursive;
+        font-size:20px;
+    }
+   
+}
