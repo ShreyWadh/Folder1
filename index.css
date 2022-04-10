@@ -1,4 +1,16 @@
-
+.col1
+{
+    background-color:tomato;
+    padding:7% 15%;
+    font-size:25px;
+}
+.om{
+    float:right;
+}
+#footer{
+    padding:7% 15%;
+    text-align:center;
+}
 body{
 background-color:#d3d3d3;
 }
@@ -38,10 +50,6 @@ background-color:#d3d3d3;
     padding:7% 15%;
     font-size:30px;
 }
-
-#footer{
-    padding:7% 15%;
-    text-align:center;}
 @media(max-width:900px){
     .container-fluid1{
         font-family:cursive;
