@@ -2,7 +2,7 @@
 {
     background-color:powderblue;
     padding:7% 15%;
-    font-size:20px;
+    font-size:21px;
 }
 .om{
     float:right;
@@ -48,7 +48,7 @@ background-color:#d3d3d3;
 }
 .container-fluid1{
     padding:7% 15%;
-    font-size:20px;
+    font-size:21px;
 }
 @media(max-width:900px){
     .container-fluid1{
