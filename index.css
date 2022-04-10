@@ -2,10 +2,14 @@
 {
     background-color:powderblue;
     padding:7% 15%;
-    font-size:21px;
+    font-size:20px;
 }
 .om{
     float:right;
+}
+.form1{
+    padding:7% 15%;
+    
 }
 #footer{
     padding:7% 15%;
@@ -48,7 +52,7 @@ background-color:#d3d3d3;
 }
 .container-fluid1{
     padding:7% 15%;
-    font-size:21px;
+    font-size:20px;
 }
 @media(max-width:900px){
     .container-fluid1{
